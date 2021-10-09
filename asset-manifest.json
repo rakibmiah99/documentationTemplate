@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/documentationTemplate/static/css/main.69d326f5.chunk.css",
+    "main.js": "/documentationTemplate/static/js/main.b4ba5c87.chunk.js",
+    "main.js.map": "/documentationTemplate/static/js/main.b4ba5c87.chunk.js.map",
+    "runtime-main.js": "/documentationTemplate/static/js/runtime-main.e4ae41af.js",
+    "runtime-main.js.map": "/documentationTemplate/static/js/runtime-main.e4ae41af.js.map",
+    "static/js/2.ffafc4a8.chunk.js": "/documentationTemplate/static/js/2.ffafc4a8.chunk.js",
+    "static/js/2.ffafc4a8.chunk.js.map": "/documentationTemplate/static/js/2.ffafc4a8.chunk.js.map",
+    "static/js/3.ea331766.chunk.js": "/documentationTemplate/static/js/3.ea331766.chunk.js",
+    "static/js/3.ea331766.chunk.js.map": "/documentationTemplate/static/js/3.ea331766.chunk.js.map",
+    "index.html": "/documentationTemplate/index.html",
+    "static/css/main.69d326f5.chunk.css.map": "/documentationTemplate/static/css/main.69d326f5.chunk.css.map",
+    "static/js/2.ffafc4a8.chunk.js.LICENSE.txt": "/documentationTemplate/static/js/2.ffafc4a8.chunk.js.LICENSE.txt",
+    "static/media/topbanner_front.e18c8e04.png": "/documentationTemplate/static/media/topbanner_front.e18c8e04.png",
+    "static/media/why_chose_bottom_left.02905814.png": "/documentationTemplate/static/media/why_chose_bottom_left.02905814.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e4ae41af.js",
+    "static/js/2.ffafc4a8.chunk.js",
+    "static/css/main.69d326f5.chunk.css",
+    "static/js/main.b4ba5c87.chunk.js"
+  ]
+}
